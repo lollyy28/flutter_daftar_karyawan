@@ -18,5 +18,15 @@
       "provinsi": "DKI Jakarta"
     },
     "hobi": ["menulis", "makan"]
+  },
+  {
+    "nama": "Lolly",
+    "umur": 19,
+    "alamat": {
+      "jalan": "jl. Lauterbrunnen",
+      "kota": "Canton of Bern",
+      "provinsi": "Swiss"
+    },
+    "hobi": ["menulis", "makan"]
   }
 ]
